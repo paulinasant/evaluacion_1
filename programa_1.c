@@ -13,7 +13,7 @@ int main()
     
     int Total = 100;
     int Puntaje = 0;
-    char Respues [100];
+    char Respues [10];
     printf("\nEncuesta de programa de citas\n");
     
     printf("\n1.-¿Viven relativamente cerca?");
