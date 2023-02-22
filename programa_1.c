@@ -73,7 +73,7 @@ int main()
     printf("\nCompatible <3");
     }
     else 
-    printf("\nTe rompera el corazón :(");
+    printf("\nTe rompera el corazón, no vale el riesgo :(");
     return 0;
 }
 
