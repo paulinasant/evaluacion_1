@@ -72,3 +72,16 @@ def main():
 
 if __name__ == "__main__":
     main()
+    
+ #1.¿Qué es lo que hace el código en un comentario antes de modificarlo?
+#Nos muestra el menú y a la hora de seleccionar una opción nos parece “no valido” y a continuación de que oprimamos enter para continuar y nos mostrara de nuevo el menú.
+#2.	¿Cuál es la sintaxis de un while?
+#Un ciclo while evalúa una condición y ejecuta el código si la condición es verdadera. El bloque de código se ejecuta repetidamente hasta que la condición se vuelve falsa o se vuelve falsa.
+#3.	¿Exite swhitch en python?
+#No existe switch en python
+#4.	¿Qué es un elif?
+#Es como si combináramos else if, utilizada para enlazar varios else if y aumentar las tabulaciones.
+#5.	¿Qué función de se ejecuta al correr el script?
+#Sintaxis de comandos  
+
+    
