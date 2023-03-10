@@ -96,3 +96,9 @@ int main(){
     }
     printf("excelente");
 }
+
+//1.	¿Qué es lo que hace el código en un comentario antes de modificarlo? Nos muestra el menú, pero a la hora de querer seleccionar una opción no arroja nada.
+//2.	¿Para qué sirve la función fflush? vacía la secuencia stream.
+//3.	¿Cuál es la sintaxis de un while? consta de la palabra clave while seguida de una expresión booleana encerrada entre paréntesis
+//4.	¿Cuál es la sintaxis de un switch? Ejecuta diferentes bloques de instrucciones seguidos de su valor, tiene uno o más bloques case y una opción default
+
